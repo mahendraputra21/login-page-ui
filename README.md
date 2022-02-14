@@ -1,4 +1,4 @@
-# login-page-ui
+# mobile-login-page-ui
 
 ## Getting Started
 
